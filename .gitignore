@@ -1,0 +1,8 @@
+.next
+*.log
+node_modules
+.env.local
+.env.*.local
+
+# Original files (before Next.js conversion)
+calcy.html
